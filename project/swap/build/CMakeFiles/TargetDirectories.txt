@@ -1,3 +1,0 @@
-/home/bury/project/swap/build/CMakeFiles/rebuild_cache.dir
-/home/bury/project/swap/build/CMakeFiles/edit_cache.dir
-/home/bury/project/swap/build/CMakeFiles/main_cmake.dir

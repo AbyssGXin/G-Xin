@@ -1,1 +1,0 @@
-/home/bury/JacarandaMimosifolia/rust/study/timezone/Appendix/geometry-rs/target/debug/examples/demo: /home/bury/JacarandaMimosifolia/rust/study/timezone/Appendix/geometry-rs/README.md /home/bury/JacarandaMimosifolia/rust/study/timezone/Appendix/geometry-rs/examples/demo.rs /home/bury/JacarandaMimosifolia/rust/study/timezone/Appendix/geometry-rs/src/lib.rs

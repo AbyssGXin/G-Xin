@@ -1,1 +1,0 @@
-/home/bury/JacarandaMimosifolia/rust/study/derive/derive-test/target/debug/derive-test: /home/bury/JacarandaMimosifolia/rust/study/derive/derive-test/src/lib.rs /home/bury/JacarandaMimosifolia/rust/study/derive/derive-test/src/main.rs

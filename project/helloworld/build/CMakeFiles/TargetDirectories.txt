@@ -1,3 +1,0 @@
-/home/bury/project/helloworld/build/CMakeFiles/rebuild_cache.dir
-/home/bury/project/helloworld/build/CMakeFiles/edit_cache.dir
-/home/bury/project/helloworld/build/CMakeFiles/helloworld_cmake.dir
